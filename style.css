@@ -1,0 +1,19 @@
+.arrangement{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+    
+    
+}
+.M1{
+    border: 2px solid #ff3d0036;
+    border-radius: 13px;
+}
+.A1{
+    height: 100px;
+    width: 100px;
+
+    
+}
