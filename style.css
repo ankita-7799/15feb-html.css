@@ -1,19 +1,16 @@
-.arrangement{
+.topheadings{
     display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-
-    
-    
+    margin-left: 10px;
 }
-.M1{
-    border: 2px solid #ff3d0036;
-    border-radius: 13px;
+.p1{
+    margin-right: 15px;
 }
-.A1{
-    height: 100px;
-    width: 100px;
-
-    
+.p2{
+    background-color: aqua;
+}
+img{
+    height: 150px;
+    width: 150px;
+    border-radius: 200px 200px;
+    border: 5px solid aqua;
 }
